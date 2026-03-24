@@ -46,7 +46,9 @@ https://ffmpeg.org/download.html
 
 python -m venv venv
 
+\- give authorization incase of system issues
 
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 \- Activate it:
 
