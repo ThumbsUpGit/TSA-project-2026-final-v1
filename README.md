@@ -46,9 +46,7 @@ https://ffmpeg.org/download.html
 
 python -m venv venv
 
-\- give authorization incase of system issues
 
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 \- Activate it:
 
@@ -70,7 +68,15 @@ source venv/bin/activate
 
 4\. Run:
 
-python main.py
+python "TSA comp2.py"
+
+extras
+
+make sure python verion is under Python 3.11.9 and under the venv
+only update requriements to venv 
+
+press q for quitting out of camera (ASL translate)
+
 
 
 
