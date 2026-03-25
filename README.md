@@ -70,12 +70,15 @@ source venv/bin/activate
 
 python "TSA comp2.py"
 
-extras
+
+5\. extras
 
 make sure python verion is under Python 3.11.9 and under the venv
 only update requriements to venv 
 
 press q for quitting out of camera (ASL translate)
+
+last updated - Salvatore C Ragusano March 2026 
 
 
 
