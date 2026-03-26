@@ -73,7 +73,8 @@ python "TSA comp2.py"
 
 5\. extras
 
-make sure python verion is under Python 3.11.9 and under the venv
+make sure python verion is Python 3.11.9 and under, and in the venv
+
 only update requriements to venv 
 
 press q for quitting out of camera (ASL translate)
